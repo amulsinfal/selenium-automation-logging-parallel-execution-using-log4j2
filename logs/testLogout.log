@@ -1,0 +1,10 @@
+[INFO ] 2025-07-19 20:42:44.515 [TestNG-test-Functional Tests-1] factory.DriverFactory::initializeDriver::36 - Chrome browser launched.
+[INFO ] 2025-07-19 20:42:44.548 [TestNG-test-Functional Tests-1] factory.DriverFactory::initializeDriver::39 - Implicit wait set to 10 seconds.
+[INFO ] 2025-07-19 20:42:44.619 [TestNG-test-Functional Tests-1] factory.DriverFactory::initializeDriver::41 - Webdriver initialised successfully.
+[INFO ] 2025-07-19 20:42:44.620 [TestNG-test-Functional Tests-1] base.BaseTest::setUp::28 - Navigated to url: https://www.saucedemo.com
+[INFO ] 2025-07-19 20:42:45.601 [TestNG-test-Functional Tests-1] pages.LoginPage::login::26 - Entered 'standard_user' in the username textbox.
+[INFO ] 2025-07-19 20:42:45.799 [TestNG-test-Functional Tests-1] pages.LoginPage::login::28 - Entered 'secret_sauce' in the password textbox.
+[INFO ] 2025-07-19 20:42:45.982 [TestNG-test-Functional Tests-1] pages.LoginPage::login::30 - Clicked on the Login button.
+[INFO ] 2025-07-19 20:42:46.115 [TestNG-test-Functional Tests-1] pages.ProductsPage::logout::26 - Clicked on the Menu button.
+[INFO ] 2025-07-19 20:42:46.787 [TestNG-test-Functional Tests-1] pages.ProductsPage::logout::28 - Clicked on the Logout link.
+[INFO ] 2025-07-19 20:42:46.829 [TestNG-test-Functional Tests-1] pages.LoginPage::isPageDisplayed::42 - Login page displayed.
