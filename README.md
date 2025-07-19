@@ -1,4 +1,4 @@
-# 🧾 ⏳ Selenium Automation - Implementing Parallel Logging using log4j2 in Automation Framework
+# 🧾 Selenium Automation - Implementing Parallel Logging using log4j2 in Automation Framework
 
 As I continued to enhance my Selenium automation skills, I implemented a reliable **logging mechanism that supports parallel test execution** using **Log4j2** in this hands-on exercise.
 
